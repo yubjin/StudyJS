@@ -1,0 +1,19 @@
+.detailDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.detailDiv > div {
+    width: 20%;
+    margin: 10px;
+}
+
+.detailDiv > p  {
+    width: 80%;
+}
+
+.detailDiv img{
+    border-radius: 50%;
+}
