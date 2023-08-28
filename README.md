@@ -10,6 +10,10 @@
     - Live Server
 
 
+## 수행 내용
+- 08.22 <picocss 활용 예제>
+- 08.24 <주사위 던지기 예제>
+
 ## Ref.
 - .gitignore
 
