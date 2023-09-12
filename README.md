@@ -25,3 +25,7 @@
 - .gitignore
 
 - [picocss](https://picocss.com/)
+
+- [공공데이터포털](https://www.data.go.kr/index.do)
+
+- [KOFIC 영화관입장권통합전산망](https://www.kobis.or.kr/)
